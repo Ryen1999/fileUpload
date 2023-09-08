@@ -28,6 +28,8 @@ public class BigFileUploadController {
                        Integer chunk,
                        MultipartFile file) throws IOException {
         if (chunks != null && chunks != 0) {
+            System.out.println("测试11111");
+    
             fileService.uploadWithBlock(name, md5,size,chunks,chunk,file);
         } else {
             fileService.upload(name, md5,file);
