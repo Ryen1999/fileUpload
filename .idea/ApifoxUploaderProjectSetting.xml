@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ApifoxUploaderProjectSetting">
+    <option name="apifoxAccessToken" value="APS-bKXDf3MNCP3zjtdySCaYqYkuJEbc0RsA" />
+    <option name="apifoxApiOverwriteMode" value="覆盖所有字段" />
+    <option name="apifoxProjectIds">
+      <array>
+        <option value="# ModuleName:ProjectID,BaseFolderName" />
+        <option value="bid-price:2347716" />
+        <option value="sicker-web:2564676" />
+        <option value="activityFront-web:2822555" />
+        <option value="activityAdmin-web:2925889" />
+        <option value="my-uploader:3028780" />
+      </array>
+    </option>
+    <option name="yapiTokens" value="" />
+  </component>
+</project>
